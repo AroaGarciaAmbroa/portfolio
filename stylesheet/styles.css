@@ -1,0 +1,50 @@
+.tamano {
+  width: 1440px;
+   height: 6094px;
+}
+body {
+  font-family: 'Rozha One', serif;
+  font-family: 'Montserrat', sans-serif;
+
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 120px 20px 50px;
+  align-items: center;
+}
+.buttons a {
+  margin-left: 30px;
+  text-decoration: none;
+  color: black;
+}
+nav img {
+  width: 90px;
+  height: 90px;
+}
+
+.kurrinAPP  {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 120px;
+
+}
+.kurrinAPP h1, .kurrinAPP p {
+  position: absolute;
+}
+.kurrinAPP p {
+  font-size: 24px;
+  top: 60px;
+  left: 300px;
+  line-height: 30px;
+}
+.kurrinAPP h1 {
+  font-family: 'Rozha One';
+  font-weight: 120px;
+  font-kerning: 29;
+  font-size: 120px;
+  top: 60px;
+  left: 300px;
+  line-height: 110px;
+}
