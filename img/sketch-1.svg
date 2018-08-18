@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="77px" viewBox="0 0 88 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>xxxhdpi/sketch-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-105.000000, -5971.000000)" fill-rule="nonzero">
+            <g id="sketch-1" transform="translate(105.000000, 5971.000000)">
+                <g id="b-link" fill="#FDB300">
+                    <polygon id="b" points="19.089098 2.50584783 43.7463529 0 68.4053333 2.50584783 87.4961569 27.1408261 43.7480784 76.1145 0 27.1408261"></polygon>
+                </g>
+                <g id="c-link" transform="translate(0.000000, 28.000000)" fill="#EA6C00">
+                    <polygon id="c" points="17.784186 0 43.9046011 48.4666667 0 0"></polygon>
+                </g>
+                <g id="d-link" transform="translate(66.000000, 52.500000) scale(-1, 1) translate(-66.000000, -52.500000) translate(44.000000, 28.000000)" fill="#EA6C00">
+                    <polygon id="d" points="17.7824544 0 43.9046011 48.4666667 0 0"></polygon>
+                </g>
+                <g id="e-link" transform="translate(17.395349, 28.000000)" fill="#FDAD00">
+                    <polygon id="e" points="0 0 51.6782476 0 25.8391238 48.4666667"></polygon>
+                </g>
+                <g id="f-link" transform="translate(17.395349, 0.000000)" fill="#FDD231">
+                    <polygon id="f" points="25.2232558 0 1.32682171 2.581 0 27.9611176"></polygon>
+                </g>
+                <g id="g-link" transform="translate(55.767442, 14.000000) scale(-1, 1) translate(-55.767442, -14.000000) translate(42.976744, 0.000000)" fill="#FDD231">
+                    <polygon id="g" points="25.2232558 0 1.32682171 2.581 0 27.9611176"></polygon>
+                </g>
+                <g id="h-link" transform="translate(77.255814, 15.500000) scale(-1, 1) translate(-77.255814, -15.500000) translate(67.534884, 3.000000)" fill="#FDAD00">
+                    <polygon id="h" points="0 24.675 18.9182946 0 17.5607752 24.675"></polygon>
+                </g>
+                <g id="Group" transform="translate(0.000000, 2.000000)" fill="#FDAD00">
+                    <g id="i-link" transform="translate(0.000000, 0.988875)">
+                        <polygon id="i" points="0 24.9834375 18.9165891 0 17.5590698 24.9834375"></polygon>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(17.395349, 0.000000)" fill="#FEEEB7">
+                    <g id="j-link" transform="translate(0.069070, 0.000000)">
+                        <polygon id="j" points="25.994407 0 0 27.9611176 51.988814 27.9611176"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

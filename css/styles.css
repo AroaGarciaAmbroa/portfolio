@@ -58,8 +58,20 @@ body {
     height:          690px;
 }
 
+#holiii {
+    background:      url("../img/aroa2.jpg") no-repeat;
+    background-size: contain;
+    height:          690px;
+}
+
 #contacto {
     background-color: #DAE0EC;
+}
+
+.leer-mas {
+    color:          #85D7C2;
+    text-transform: uppercase;
+    font-weight:    bold;
 }
 
 h2 {
