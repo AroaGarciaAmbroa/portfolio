@@ -1,5 +1,5 @@
 {
   "app.js": "http://localhost:8080/app.js",
   "general.css": "http://localhost:8080/general.css",
-  "index.html": "http://localhost:8080/index.html"
+  "index": "http://localhost:8080/index"
 }
