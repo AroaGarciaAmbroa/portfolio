@@ -1,37 +1,37 @@
 .footer {
-  align-items: center;
-  font-size: 0.75rem;
-  font-weight: 300;
+    align-items: center;
+    font-size:   0.75rem;
+    font-weight: 300;
 }
 
 .nav-link.active {
-  font-weight: 800;
+    font-weight: 800;
 }
 
 h1 {
-  font-weight: 800;
+    font-weight: 800;
 }
 
 h2 {
-  font-weight: 800;
+    font-weight: 800;
 }
 
 .welcome {
-  font-size: 2rem;
-  margin-bottom: 5rem;
-  padding-bottom: 5rem;
+    font-size:      2rem;
+    margin-bottom:  5rem;
+    padding-bottom: 5rem;
 }
 
 button {
-  background-color: black;
-  color: white;
-  border-color: black;
+    background-color: black;
+    color:            white;
+    border-color:     black;
 }
 
 h4 {
-  font-weight: 500;
-  text-align: left;
-  font-size: 1.2rem;
+    font-weight: 500;
+    text-align:  left;
+    font-size:   1.2rem;
 }
 
 /*
@@ -43,82 +43,88 @@ h4 {
 */
 
 .figure-img {
-  width: 100%;
-  object-fit: cover;
+    width:      100%;
+    object-fit: cover;
 }
 
 /* 07-03-2020 */
 a.avanza,
 a.retrocede {
-  white-space: nowrap;
-  overflow-x: hidden;
+    white-space: nowrap;
+    overflow-x:  hidden;
 }
 
 a.avanza::after,
 a.retrocede::before {
-  content: "";
-  border-top: 0.1rem solid currentColor;
-  display: inline-block;
-  vertical-align: 20%;
-  width: 0;
-  transition: width 2s;
+    content:        "";
+    border-top:     0.1rem solid currentColor;
+    display:        inline-block;
+    vertical-align: 20%;
+    width:          0;
+    transition:     width 2s;
 }
 
 a.avanza:hover::after,
-a.retrocede:hover::before {
-  width: 2rem;
+a.retrocede:hover::before,
+.work:hover a.avanza::after,
+.work:hover a.retrocede::before {
+    width: 2rem;
 }
 
 a.avanza.h1::after,
 a.retrocede.h1::before {
-  border-top: 0.25rem solid currentColor;
-  vertical-align: 25%;
+    border-top:     0.25rem solid currentColor;
+    vertical-align: 25%;
 }
 
 a.avanza.h1:hover::after,
-a.retrocede.h1:hover::before {
-  width: 100%;
+a.retrocede.h1:hover::before,
+.work:hover a.avanza.h1::after,
+.work:hover a.avanza.h1::before {
+    width: 100%;
 }
 
 a.avanza.h2::after,
 a.retrocede.h2::before {
-  border-top: 0.25rem solid currentColor;
-  vertical-align: 25%;
-  margin-top: 2.5rem;
+    border-top:     0.25rem solid currentColor;
+    vertical-align: 25%;
+    margin-top:     2.5rem;
 }
 
 a.avanza.h2:hover::after,
-a.retrocede.h2:hover::before {
-  width: 35%;
+a.retrocede.h2:hover::before,
+.work:hover a.avanza.h2::after,
+.work:hover a.retrocede.h2::before {
+    width: 35%;
 }
 
 a.avanza::after {
-  margin-left: 0.5rem;
+    margin-left: 0.5rem;
 }
 
 a.retrocede::before {
-  margin-right: 0.5rem;
+    margin-right: 0.5rem;
 }
 
 .intro {
-  background-size: cover;
-  background-repeat: no-repeat;
+    background-size:   cover;
+    background-repeat: no-repeat;
 }
 
 .navbar-toggler {
-  border-color: black;
+    border-color: black;
 }
 
 @media (max-width: 576px) {
-  h1,
-  .h1 {
-    font-size: 3rem;
-  }
+    h1,
+    .h1 {
+        font-size: 3rem;
+    }
 
-  h2,
-  .h2 {
-    font-size: 2rem;
-  }
+    h2,
+    .h2 {
+        font-size: 2rem;
+    }
 }
 
 /*@media (min-width: 576px) and (max-width: 768px){
@@ -126,28 +132,29 @@ a.retrocede::before {
 
 /* imagenes trabajos */
 #intro-one_hope {
-  background-image: url("images/onehope/onehope22.jpg");
+    background-image: url("/images/onehope/onehope22.jpg");
 }
 
 @media (max-width: 576px) {
-  #intro-one_hope {
-    background-image: url("https://www.placecage.com/g/576/900");
-  }
+    #intro-one_hope {
+        background-image: url("https://www.placecage.com/g/576/900");
+    }
 }
 
-@media (min-width:576px) and (max-width:768px){
-  #intro-one_hope{
-    background-image: url("https://www.placecage.com/g/768/900");
-  }
+@media (min-width: 576px) and (max-width: 768px) {
+    #intro-one_hope {
+        background-image: url("https://www.placecage.com/g/768/900");
+    }
 }
+
 ul.con-rayita {
 
-  list-style-type: none;
-  font-size: 1.25rem;
+    list-style-type: none;
+    font-size:       1.25rem;
 }
 
 ul.con-rayita li:before {
-  content:"";
-  
+    content: "";
+
 
 }
