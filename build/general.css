@@ -81,7 +81,7 @@ a.avanza.h1:hover::after,
 a.retrocede.h1:hover::before,
 .work:hover a.avanza.h1::after,
 .work:hover a.avanza.h1::before {
-    width: 100%;
+    width: 50%;
 }
 
 a.avanza.h2::after,
