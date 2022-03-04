@@ -33,7 +33,9 @@ h4 {
     text-align:  left;
     font-size:   1.2rem;
 }
-
+ul {
+    list-style: none;
+}
 /*
 .gallery {
   align-content: flex-start;
